@@ -1,0 +1,15 @@
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/home/deltalabs/.rvm/rubies/ruby-2.5.8/bin/ruby -I /home/deltalabs/.rvm/rubies/ruby-2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220912-356371-ocvj33.rb extconf.rb
+creating Makefile
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20220912-356371-1k09ief/skiptrace/internal

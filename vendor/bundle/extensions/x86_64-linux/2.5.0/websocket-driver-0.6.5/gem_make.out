@@ -1,0 +1,15 @@
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/deltalabs/.rvm/rubies/ruby-2.5.8/bin/ruby -I /home/deltalabs/.rvm/rubies/ruby-2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20220912-356371-28sc0y.rb extconf.rb
+creating Makefile
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/deltalabs/Downloads/chat-app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20220912-356371-r80t3u
