@@ -1,3 +1,3 @@
-class SessionsController < ActionController::Base
+class SessionsController < ApplicationController
   
 end
