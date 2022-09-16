@@ -18,4 +18,7 @@
 
 $(document).on('turbolinks:load', function() {
   $('.ui.dropdown').dropdown();
+  $('message.clone').on('click', function(){
+    $(this).closest('.message').transition('fade');
+  });
 })
